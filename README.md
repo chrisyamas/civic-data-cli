@@ -28,17 +28,17 @@ The `cli_search.py` located in `civic-data-cli/legis_data_tools/usa/hi/people/` 
 
 5. **Interactive and User-friendly**: It includes functions for progress display, input validation, and custom messages based on the time of day.
 
-### Contributing
+## Contributing
 
 This is an ongoing project which will eventually welcome contributions! For those with a tool or script that can help with the exploration of civic data, stay tuned for the `CONTRIBUTING.md` to come with guidelines on how to contribute.
 
-### Usage
+## Usage
 
 To use any of the tools in this repository:
 1. Clone the repository to your local machine.
 2. Navigate to the directory of the tool you're interested in.
 3. Follow the specific instructions provided in the tool's directory for setup and usage.
 
-### License
+## License
 
 This project is licensed under the [Apache 2.0 License](LICENSE).

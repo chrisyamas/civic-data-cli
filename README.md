@@ -4,7 +4,7 @@
 
 Welcome to `civic-data-cli`, a collection of Command Line Interface (CLI) tools involving public and social sector data. This repository is a growing playground for exploring and analyzing civic data, with tools sorted into directories by sector. Whether you're a data scientist, policy analyst, or a curious citizen, this repository is intended to provide tools to access and utilize data from various sectors of public interest.
 
-## Repository Structure Example
+## Repository Structure & Tools Example
 
 - **`/legis_data_tools`**: Tools for legislative data.
   - **`/usa`**: American jurisdictions.

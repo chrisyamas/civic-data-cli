@@ -2,7 +2,7 @@
 
 ## About
 
-Welcome to `civic-data-cli`, a collection of Command Line Interface (CLI) tools involving public and social sector data. This repository is a growing playground for exploring and analyzing civic data, with tools sorted into directories by sector. 
+Welcome to `civic-data-cli`, a collection of Command Line Interface (CLI) tools involving public and social sector data. This repository is a growing playground for exploring and analyzing civic data, with tools sorted into directories by sector.
 
 ## Repository Structure & Tools Example
 
